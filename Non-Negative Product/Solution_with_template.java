@@ -30,3 +30,5 @@ class Codechef{
         input.close();
 	}
 }
+
+//Template Credits: @shubhanshu_jha
