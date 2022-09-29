@@ -11,10 +11,7 @@ class Codechef
 		InputReader ir = new InputReader(System.in);
         	int t = ir.nextInt();
         	while(t-->0){
-        	    long N = ir.nextInt();
-        	   // if(N==1) {
-        	   //     System.out.println(1);
-        	   // }
+        	    long N = ir.nextLong();
         	    long sum = 0;
         	    if(N%2==0){
         	       long n = N/2;
