@@ -42,6 +42,7 @@ class InputReader{
                 System.out.println(e.getMessage());
             }
         }
+	    
         return st.nextToken(" ");
     }
 
