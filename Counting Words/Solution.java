@@ -2,6 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+
 /* Name of the class has to be "Main" only if the class is public. */
 class Codechef
 {
@@ -25,6 +26,7 @@ class InputReader{
         br = new BufferedReader(new InputStreamReader(is));
     }
     private StringTokenizer st;
+	
     public String nextLine(){
         String s=null;
         try {
@@ -34,6 +36,7 @@ class InputReader{
         }
         return s;
     }
+	
     public String next(){
         if(st == null || !st.hasMoreTokens()){
             try {
@@ -57,6 +60,7 @@ class InputReader{
     public double nextDouble(){
         return Double.parseDouble(next());
     }
+	
     public void close(){
        try {
         br.close();
