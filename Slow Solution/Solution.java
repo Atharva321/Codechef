@@ -1,4 +1,6 @@
 /* package codechef; // don't place package name! */
+// Time  : O(1)
+// Space : O(1)
 
 import java.util.*;
 import java.lang.*;
