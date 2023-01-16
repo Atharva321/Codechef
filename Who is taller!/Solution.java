@@ -1,3 +1,5 @@
+// Time  : O(n)
+// Space : O(1)
 import java.util.*;
 import java.lang.*;
 import java.io.*;
