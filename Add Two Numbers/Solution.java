@@ -1,7 +1,8 @@
 // You don't need to add/edit anything to the below solution. 
 // Click on the SUBMIT button to solve your first problem on CodeChef.
 // Time  : O(1)
-// Space : 
+// Space : O(1)
+
 import java.io.OutputStream;
 import java.io.IOException;
 import java.io.InputStream;
