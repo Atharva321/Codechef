@@ -1,5 +1,5 @@
-// Time  : 
-// Space :
+// Time  : O(n^2)
+// Space : O(1)
 
 /* package codechef; // don't place package name! */
 
